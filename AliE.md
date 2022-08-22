@@ -62,7 +62,7 @@ Project created by <a href="https://github.com/whatsapp">whatsapp</a> to make it
 
 Badbotz - Badbotz Userbot is Open Source software open to development. 
 
-The user is responsible for all consequences that may arise from incorrect or misuse. 
+The user is responsible for all conseyjjquences that may arise from incorrect or misuse. 
 
 Since it is an open source project, anyone can copy the software, add and remove,
 
